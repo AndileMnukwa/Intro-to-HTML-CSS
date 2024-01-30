@@ -21,5 +21,3 @@ To showcase code on a webpage, the `<code>` element is employed for highlighting
 <--- HTML Superscripts, Subscripts, and Small Text -->
 HTML elements such as `<sub>` for subscripts, `<sup>` for superscripts, and `<small>` for small text convey specific meanings and enhance content readability. Proper use of these elements aids in accurately presenting content and providing context for assistive technologies and search engines.
 
-In summary, HTML is a powerful language that forms the backbone of web content, enabling effective communication and presentation of diverse information. Understanding and utilizing HTML elements contribute to the creation of well-structured, accessible, and meaningful web pages.
-

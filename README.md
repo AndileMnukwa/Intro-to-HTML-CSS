@@ -1,4 +1,5 @@
 **DAY 1** 
+
 INTRUDUCTION TO HTML
 
 HTML, or HyperText Markup Language, is a foundational language used to structure web pages, incorporating tags enclosed in less-than and greater-than symbols to define elements. These tags, classified as opening and closing, encapsulate content within elements, forming a structured hierarchy. Proper nesting of elements results in a Document Object Model (DOM) tree, crucial for browsers to interpret content relationships and render web pages. HTML serves as a fundamental channel for presenting various content types, such as text, images, videos, audio, forms, and interactive experiences. It plays a vital role in bridging the gap between human and computer languages, enabling effective communication in the digital realm.

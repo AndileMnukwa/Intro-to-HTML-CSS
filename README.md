@@ -1,4 +1,4 @@
-**DAY 1** 
+**week 1** 
 
 INTRUDUCTION TO HTML
 
@@ -6,8 +6,6 @@ HTML, or HyperText Markup Language, is a foundational element of web technology,
 
 HTML collaborates with CSS (Cascading Style Sheets) and JavaScript, forming the core trio of web technologies. HTML provides foundational instructions for elements on a webpage in a declarative manner, with simplicity and resilience to handle errors. CSS, responsible for styling, defines the visual presentation of a webpage, introducing complexity but allowing browsers to skip problematic parts. JavaScript, a programming language, enhances interactivity and complexity in web interfaces, enabling dynamic features, albeit with delicacy that can lead to functionality breakdowns in case of code issues or browser limitations. Despite challenges, the combination of HTML, CSS, and JavaScript is essential for creating resilient, robust, and functional websites that cater to diverse devices, browsers, and platforms, emphasizing the unique nature of the web and the significance of mastering HTML for optimal web development.
 
-
-**DAY 2**
 
 <!-- Text Formatting in HTML -->
 
@@ -32,7 +30,6 @@ To showcase code on a webpage, the `<code>` element is employed for highlighting
 <!-- HTML Superscripts, Subscripts, and Small Text -->
 HTML elements such as `<sub>` for subscripts, `<sup>` for superscripts, and `<small>` for small text convey specific meanings and enhance content readability. Proper use of these elements aids in accurately presenting content and providing context for assistive technologies and search engines.
 
-**DAY 3**
 
 HTML Capabilities
 
@@ -55,5 +52,26 @@ HTML formatting considerations include spaces, comments, case sensitivity, eleme
 <!-- Unusual Characters -->
 
 Special characters in HTML, such as <, >, and &, pose challenges when used as regular content. HTML provides character entities to address this issue, converting short codes into desired characters. Non-breaking spaces play a unique role in preventing line breaks between words. Understanding character entities ensures precise character display on webpages.
+
+**Week 2**
+Optimizing web Images!
+
+Images Attribute 
+Image formats
+Responsive Images
+Figcaption and figures
+
+
+Enhancing web content with Media!
+
+Working with audio
+Multiple audio formats
+Working with Video
+Embedded video via Iframes
+
+
+
+
+
 
 

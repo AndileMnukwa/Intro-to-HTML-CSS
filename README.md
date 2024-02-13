@@ -82,7 +82,7 @@ Non-breaking spaces play a unique role in preventing line breaks between words. 
 
 **Week 2**
 
-**<!--HTML Working with Graphics and Images-->**
+**HTML Working with Graphics and Images**
   
 Involves several key aspects.
 First, images are crucial for webpages, added using the IMG element with attributes like SRC for the image file, ALT for accessibility, and width/height for layout.
@@ -91,7 +91,7 @@ Responsive images are essential for accommodating different screen sizes, achiev
 Additionally, the FIGURE and FIGCAPTION elements aid in associating images with captions, enhancing accessibility and search engine optimization.
 Overall, these elements and techniques ensure effective use of images in web design, considering factors like format, responsiveness, and accessibility.
 
-**<!--Working with Media in HTML-->**
+**Working with Media in HTML**
 
 Involves integrating audio, video, and captions effectively into web content.
 The audio element allows for the embedding of audio files, with attributes like source and controls providing user interaction options.
@@ -103,7 +103,7 @@ Embedding media via iframes is another approach, enabling the inclusion of conte
 While iframes offer versatility, security measures must be considered, particularly when dealing with user-generated content in content management systems like WordPress or Drupal.
 Overall, HTML provides robust tools for working with media, ensuring an engaging and accessible user experience on the web.
 
-**<!--HTML Content Identification-->**
+**HTML Content Identification**
 
 HTML provides tools for identifying the language and character set of web content to ensure proper rendering, accessibility, and search engine optimization.
 The lang attribute specifies the language of the webpage, with options for regional variations and writing systems.
@@ -114,7 +114,7 @@ By defining these attributes, developers contribute to a more inclusive web expe
 In cases where no specific meaning is needed, generic elements like div and span can be used to group elements or apply CSS and JavaScript,
 but their excessive use is discouraged in favor of semantic HTML elements that convey meaning and improve accessibility.
 
-**<!--HTML Intergration-->**
+**HTML Intergration**
 
 HTML files play a crucial role in the functioning of the web, serving as the backbone of websites and web applications.
 When a user accesses a website, the web server responds by sending back the specific HTML file associated with the requested URL.
@@ -128,7 +128,7 @@ Within the head section, crucial information such as the character set, webpage 
 In the body section, various structural elements like main, header, footer, article, section, and aside are used to organize the content.
 While there are established conventions for structuring HTML documents, there is also room for creativity and flexibility, as the optimal structure depends on the specific content and purpose of the webpage.
 
-**<!--Working with Forms and Interactive Elements-->**
+**Working with Forms and Interactive Elements**
 
 Forms are an integral part of web development, facilitating various interactions such as logging in, making purchases, and submitting data.
 It's essential to use semantic form elements in HTML to leverage the built-in functionalities of web browsers and ensure compatibility across devices and input/output hardware.

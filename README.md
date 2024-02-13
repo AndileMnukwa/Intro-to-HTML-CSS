@@ -1,6 +1,6 @@
 **week 1** 
 
-INTRUDUCTION TO HTML
+**INTRUDUCTION TO HTML**
 
 HTML, or HyperText Markup Language, is a foundational element of web technology,extensively utilized in websites, applications, and digital software for presenting diverse content types, including text, images, videos, audio, forms, and interactive experiences.
 Serving as a pivotal component in the digital landscape, HTML establishes a structured framework for information exchange on the internet.
@@ -11,12 +11,7 @@ HTML provides foundational instructions for elements on a webpage in a declarati
 CSS, responsible for styling, defines the visual presentation of a webpage, introducing complexity but allowing browsers to skip problematic parts.
 JavaScript, a programming language, enhances interactivity and complexity in web interfaces, enabling dynamic features, albeit with delicacy that can lead to functionality breakdowns in case of code issues or browser limitations. Despite challenges, the combination of HTML, CSS, and JavaScript is essential for creating resilient, robust, and functional websites that cater to diverse devices, browsers, and platforms, emphasizing the unique nature of the web and the significance of mastering HTML for optimal web development.
 
-
-
-
-<!-- Text Formatting in HTML -->
-
-
+**Text Formatting in HTML**
 
 HTML facilitates text formatting through various elements, such as paragraphs, headlines, bold and italic styles, and lists.
 Proper use of these elements enhances content structure and meaning.
@@ -24,21 +19,13 @@ For instance, the `<p>` element organizes text into paragraphs, providing clarit
 Headline elements (`<h1>` to `<h6>`) aid in organizing content hierarchically, with each level conveying a distinct visual impact.
 HTML provides four elements (`<em>`, `<i>`, `<strong>`, `<b>`) for italicizing or bolding text, each serving a specific purpose—semantic or visual.
 
-
-
-<!-- HTML Lists -->
-
-
+**HTML Lists**
 
 HTML supports three main types of lists—unordered lists (`<ul>`), ordered lists (`<ol>`), and definition lists (`<dl>`).
 Unordered lists use `<li>` elements within `<ul>`, displaying a dot or marker before each item.
 Ordered lists utilize `<ol>` for numbered sequences, while definition lists (`<dl>`) represent key-value pairs using `<dt>` (definition term) and `<dd>` (definition description) elements.
 
-
-
-<!-- HTML Quotes -->
-
-
+**HTML Quotes**
 
 Quoting in HTML involves blockquotes (`<blockquote>`) for larger quoted sections and inline quotes (`<q>`) for shorter, inline quotations.
 These semantic elements aid in styling and communicating the intended meaning of quotes.
